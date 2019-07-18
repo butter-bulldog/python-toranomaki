@@ -26,4 +26,9 @@ elif x == 3:
 else:
   print("xは2でも3でもない")
 
+num = 'a'
+
+if not num.isdigit():
+  print("numは数字ではありません")
+
 

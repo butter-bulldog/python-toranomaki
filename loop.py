@@ -34,3 +34,10 @@ for i in range(1,10):
   print(i)
 else:
   print("ループが終わりました")
+
+
+cnt = 0
+while cnt < 5:
+  print(cnt)
+  cnt+=1
+# 0 1 2 3 4
